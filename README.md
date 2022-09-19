@@ -17,7 +17,8 @@ Before starting any other specific programming, I just check whether everything 
 
 {Make a list of websites that you found helpful in this project}
 * [Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/)
-* [W01 Prove Create Software Portfolio](https://byui.instructure.com/courses/196890/assignments/9395761)
 * [Youtube for explanation of the project](https://youtu.be/jOqV9sdMYJw)
+* [W01 Prove Create Software Portfolio](https://byui.instructure.com/courses/196890/assignments/9395761)
+
 ![screenshot](reference.png)
 
