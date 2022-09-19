@@ -5,7 +5,7 @@ The purpose of the project is printing word 'hello world.'
 
 Before starting any other specific programming, I just check whether everything is great or not.
 
-[Youtube for explanation of the project](http://youtube.link.goes.here)
+[Youtube for explanation of the project](https://youtu.be/jOqV9sdMYJw)
 
 # Development Environment
 
@@ -18,5 +18,6 @@ Before starting any other specific programming, I just check whether everything 
 {Make a list of websites that you found helpful in this project}
 * [Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/)
 * [W01 Prove Create Software Portfolio](https://byui.instructure.com/courses/196890/assignments/9395761)
+* [Youtube for explanation of the project](https://youtu.be/jOqV9sdMYJw)
 ![screenshot](reference.png)
 
